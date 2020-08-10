@@ -1,6 +1,6 @@
 html{
   cursor: url('./pointy_mouse.png'), auto;
-  background-image: url(mostfoulinsect/tile.png);
+  background-image: url(./tile.png);
   background-repeat: repeat;
   background-size: 409px 289px;
   background-attachment: fixed;
