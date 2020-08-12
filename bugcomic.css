@@ -2,7 +2,7 @@ html{
   cursor: url('./pointy_mouse.png'), auto;
   background-image: url('./tile.png');
   background-repeat: repeat;
-  background-size: 409px 289px;
+  background-size: 409vh 289vh;
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
