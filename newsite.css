@@ -1,0 +1,27 @@
+html{
+  cursor: url('./mouse2.png'), auto;
+}
+
+body{
+  background-image: url(./maintile.png);
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: center;
+
+}
+.link{
+  width: inherit;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+  opacity: 0.8;
+  cursor: url('./clicky_mouse copy.png'), auto;
+  padding: 2px
+}
+
+.link:hover{
+  opacity:1;
+}
+
+
+}
