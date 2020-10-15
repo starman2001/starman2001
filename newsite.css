@@ -8,6 +8,7 @@ body{
   background-attachment: fixed;
   background-position: center;
   cursor: url('./mouse2.png'), auto;
+  text-align: center;
 
 }
 .link{
@@ -25,4 +26,8 @@ body{
 }
 
 
+}
+
+img{
+  display: inline-block;
 }
