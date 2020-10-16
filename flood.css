@@ -33,7 +33,7 @@ audio{
 
 button{
   background-color: black;
-  font-size: 12px;
+  font-size: 24px;
   font-weight: bold;
   font-family; Ariel;
   font-style: italic;
@@ -43,6 +43,7 @@ button{
   margin-right: auto;
   display:block;
   cursor: url('./clicky_mouse copy.png'), auto;
+  
   
 
 
