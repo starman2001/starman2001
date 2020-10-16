@@ -15,10 +15,11 @@ body{
   width: inherit;
   margin-left: auto;
   margin-right: auto;
-  display:block;
+  display:inline-block;
   opacity: 0.8;
   cursor: url('./clicky_mouse copy.png'), auto;
   padding: 2px
+    
 }
 
 .link:hover{
