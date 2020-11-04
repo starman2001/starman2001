@@ -1,0 +1,111 @@
+html{
+background-image: url(./wag2.png);
+background-repeat: repeat;
+background-attachment: fixed;
+background-position: center;
+}
+
+button{
+  background-color: black;
+  font-size: 12px;
+  font-weight: bold;
+  font-family; Ariel;
+  font-style: italic;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  align-self: center;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+  color: white;
+}
+
+.open{
+  width: 100vh;
+  height: inherit;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
+
+.click{
+  width: 50vh;
+  height: inherit;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  opacity: 50%
+}
+
+.click:hover{
+  opacity:100%;
+}
+
+.bigboy{
+  height: 40vh;
+  width: inherit;
+}
+
+.bigboy:hover{
+  opacity: 50%;
+}
+
+.gif{
+  height: 40vh;
+  width: inherit;
+}
+
+.thing{
+  opacity: 80%;
+  height: 40vh;
+  width: inherit;
+  background-color: white;
+  border: 5px solid black;
+  border-style: inset;
+  padding: 10px;
+  border-color: black;
+}
+
+.thing:hover{
+  opacity: 100%;
+}
+
+.hand{
+  height: 10vh;
+  width: inherit;
+  margin-left: auto;
+  margin-right:auto;
+  display: block;
+}
+
+.Bigboy:hover + div{
+  display: block;
+}
+
+.leek{
+  height:100vh;
+  width:inherit;
+  padding: 10px;
+
+}
+
+.branch{
+  width: 150vh;
+  height: inherit;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
+body{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.wop{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+}
